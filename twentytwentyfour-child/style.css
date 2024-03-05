@@ -1,0 +1,9 @@
+/*
+Theme Name: Twenty Twenty-Three Child
+Template: twentytwentythree
+*/
+@import url("../twentytwentythree/style.css");
+
+p {
+    color: #f00 !important;
+}
