@@ -1,0 +1,10 @@
+/*
+Theme Name: Neve FSE Child Theme
+Template: neve-fse
+*/
+
+@import url("../neve-fse/style.css");
+
+h1 {
+    color: #f00 !important;
+}
