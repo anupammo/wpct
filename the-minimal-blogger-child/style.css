@@ -1,0 +1,10 @@
+/* 
+Theme Name: The Minimal Blogger Child
+Template: the-minimal-blogger
+*/
+
+@import url("../twentytwentyfour/style.css");
+
+p {
+    color: #f00 !important;
+}
