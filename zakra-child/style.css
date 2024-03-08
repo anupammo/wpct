@@ -1,0 +1,10 @@
+/* 
+Theme Name: Zakra Child Theme
+Template: zakra
+*/
+
+/* @import url("../zakra/style.css"); */
+
+p {
+    color: #f00 !important;
+}

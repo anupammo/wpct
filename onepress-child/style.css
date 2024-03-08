@@ -1,0 +1,10 @@
+/* 
+Theme Name: OnePress Child Theme
+Template: onepress
+*/
+
+/* @import url("../onepress/style.css"); */
+
+p {
+    color: #f00 !important;
+}

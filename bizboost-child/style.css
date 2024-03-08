@@ -1,0 +1,10 @@
+/* 
+Theme Name: BizBoost Child Theme
+Template: bizboost
+*/
+
+/* @import url("../bizboost/style.css"); */
+
+p {
+    color: #f00 !important;
+}

@@ -1,0 +1,10 @@
+/* 
+Theme Name: Extendable Child Theme
+Template: extendable
+*/
+
+/* @import url("../extendable/style.css"); */
+
+p {
+    color: #f00 !important;
+}
