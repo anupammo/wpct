@@ -1,0 +1,10 @@
+/* 
+Theme Name: Twenty Fifteen Child Theme
+Template: twentyfifteen
+*/
+
+/* @import url("../twentyfifteen/style.css"); */
+
+p {
+    color: #f00 !important;
+}
